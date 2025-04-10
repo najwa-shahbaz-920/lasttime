@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My First React Project
 
 ## Description
@@ -18,3 +19,6 @@ This is a simple React project to learn and experiment with basic React concepts
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+=======
+# lasttime
+>>>>>>> 2cbcf611d2983ee828a4b1a72febd0b9ca5184c3
